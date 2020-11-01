@@ -10,3 +10,4 @@ def getBistCodes():
     return codes
 
 
+print( getBistCodes() ) 
