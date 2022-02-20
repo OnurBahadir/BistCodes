@@ -1,2 +1,2 @@
 # BistCodes
-Borsa İstanbul endekslerinde işlem gören şirketlerin kodlarını listeler. 
+Borsa İstanbul endeksinde işlem gören şirketlerin kodlarını listeler. 
